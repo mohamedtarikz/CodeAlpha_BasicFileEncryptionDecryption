@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//to check validity of input string that it's a text file
 bool valid(string s){
     int idx = 0;
     string sub;
